@@ -10,7 +10,7 @@
   "bin": {
     "cenarius": "index.js"
   },
-  "keywords": [],
+  "keywords": ["cli", "auto-crate-project"],
   "author": "tennessee",
   "license": "ISC",
   "dependencies": {
